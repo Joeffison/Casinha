@@ -1,5 +1,26 @@
 # Casinha
 
+Casinha is here to improve your experience in your condominium.
+
+
+## Features
+
+- Read your condominium's rules;
+- Update your information;
+- Make complaints;
+- Tell who's coming to visit you (send picture, name and expected time);
+- Read the news on your condominium;
+- Receive other important information;
+- Receive/Reply notifications;
+- Chat with people who also live there;
+- Rent your parking spot;
+- Rent/Sell your apto;
+- Make your own selling/renting offers;
+- Schedule use of shared areas (if necessary to do so, e.g., party halls and pools).
+
+
+=======
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
 ## Development server
@@ -29,3 +50,4 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
